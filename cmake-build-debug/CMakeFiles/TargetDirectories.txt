@@ -1,0 +1,3 @@
+D:/Motor/cmake-build-debug/CMakeFiles/Motor.elf.dir
+D:/Motor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Motor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
